@@ -1,0 +1,3516 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ATVContraloria
+</name>
+</assembly>
+<members>
+<member name="F:ATVContraloria.Aviso.lblUsuario">
+	<summary>
+lblUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Aviso.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Principal.lblUsuario">
+	<summary>
+lblUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.lnkGenerarReporteCtasPorCobrar">
+	<summary>
+lnkGenerarReporteCtasPorCobrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.lnkGenerarReporteCtasPorCobrarContraloria">
+	<summary>
+lnkGenerarReporteCtasPorCobrarContraloria control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.lblFecha">
+	<summary>
+lblFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.txtFecha">
+	<summary>
+txtFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesCtasCobrar.lnkGenerarReporteFacturasPorCobrar">
+	<summary>
+lnkGenerarReporteFacturasPorCobrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.txtProgramaB">
+	<summary>
+txtProgramaB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.hdfOrden">
+	<summary>
+hdfOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.hdfTipoOrden">
+	<summary>
+hdfTipoOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.gdvProgramas">
+	<summary>
+gdvProgramas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Programas.gdvProgramasExp">
+	<summary>
+gdvProgramasExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesVentas.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesVentas.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesVentas.lnkGenerarReporte">
+	<summary>
+lnkGenerarReporte control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGPDetalle.hdfIdCtaEGP">
+	<summary>
+hdfIdCtaEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGPDetalle.lblCtaEGP">
+	<summary>
+lblCtaEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGPDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGPDetalle.gdvCtaEGPDet">
+	<summary>
+gdvCtaEGPDet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaNDetalle.hdfIdCtaFlujoNRep">
+	<summary>
+hdfIdCtaFlujoNRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaNDetalle.lblCtaFlujoNRep">
+	<summary>
+lblCtaFlujoNRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaNDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaNDetalle.gdvCtaDetalleNRep">
+	<summary>
+gdvCtaDetalleNRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.cboAño">
+	<summary>
+cboAño control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.lnkDescargaEvalEGP">
+	<summary>
+lnkDescargaEvalEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.fupEvalEGP">
+	<summary>
+fupEvalEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.lnkImportaEvalEGP">
+	<summary>
+lnkImportaEvalEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.UpdateProgress1">
+	<summary>
+UpdateProgress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvalEGP.AlwaysVisibleControlExtender1">
+	<summary>
+AlwaysVisibleControlExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.txtFechaIni">
+	<summary>
+txtFechaIni control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.txtFechaFin">
+	<summary>
+txtFechaFin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.cboCtaBanco">
+	<summary>
+cboCtaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.gdvCuenta">
+	<summary>
+gdvCuenta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFCS.gdvCuenta2">
+	<summary>
+gdvCuenta2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:ATVContraloria.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:ATVContraloria.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:ATVContraloria.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:ATVContraloria.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:ATVContraloria.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:ATVContraloria.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.hdfNroRegistros">
+	<summary>
+hdfNroRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboCuentaBanco">
+	<summary>
+cboCuentaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboCuentaFC">
+	<summary>
+cboCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboCuentaDestino">
+	<summary>
+cboCuentaDestino control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboArea">
+	<summary>
+cboArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboAreaNueva">
+	<summary>
+cboAreaNueva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboPersona">
+	<summary>
+cboPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.txtPersona">
+	<summary>
+txtPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.txtGlosa">
+	<summary>
+txtGlosa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.txtFecha">
+	<summary>
+txtFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.txtNroVoucher">
+	<summary>
+txtNroVoucher control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblNumRegistros">
+	<summary>
+lblNumRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.upnlResumen">
+	<summary>
+upnlResumen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.hdfPagina">
+	<summary>
+hdfPagina control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.gdvMovimiento">
+	<summary>
+gdvMovimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.gdvResultadosExp">
+	<summary>
+gdvResultadosExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.btnInvisible1">
+	<summary>
+btnInvisible1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.pnlDetalle">
+	<summary>
+pnlDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.hdfIdMovimiento">
+	<summary>
+hdfIdMovimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblIdPeriodo">
+	<summary>
+lblIdPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblFecha">
+	<summary>
+lblFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblNroVoucher">
+	<summary>
+lblNroVoucher control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblNroItem">
+	<summary>
+lblNroItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCodCuentaBanco">
+	<summary>
+lblCodCuentaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCuentaBanco">
+	<summary>
+lblCuentaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCodCuentaFC">
+	<summary>
+lblCodCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCuentaFC">
+	<summary>
+lblCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCodPersona">
+	<summary>
+lblCodPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblPersona">
+	<summary>
+lblPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblGlosa">
+	<summary>
+lblGlosa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblObservaciones">
+	<summary>
+lblObservaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCodArea">
+	<summary>
+lblCodArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblArea">
+	<summary>
+lblArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblCodGrupoMov">
+	<summary>
+lblCodGrupoMov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblGrupoMov">
+	<summary>
+lblGrupoMov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblMontoBaseUSD">
+	<summary>
+lblMontoBaseUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblMontoIGVUSD">
+	<summary>
+lblMontoIGVUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblMontoUSD">
+	<summary>
+lblMontoUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.lblVacio">
+	<summary>
+lblVacio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboCuentaFCN">
+	<summary>
+cboCuentaFCN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.cboAreaN">
+	<summary>
+cboAreaN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.btnCloseDetalle">
+	<summary>
+btnCloseDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.btnSaveDetalle">
+	<summary>
+btnSaveDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionN.mpupDetalle">
+	<summary>
+mpupDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesRentabilidad.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesRentabilidad.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesRentabilidad.txtPeso">
+	<summary>
+txtPeso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesRentabilidad.txtPeso2">
+	<summary>
+txtPeso2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesRentabilidad.lnkGenerarReporteRentabilidad">
+	<summary>
+lnkGenerarReporteRentabilidad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.lnkGenerarReporte">
+	<summary>
+lnkGenerarReporte control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.cboCentroCosto">
+	<summary>
+cboCentroCosto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.cboRubroCosto">
+	<summary>
+cboRubroCosto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEGP.lnkGenerarReporteComparativoCuentas">
+	<summary>
+lnkGenerarReporteComparativoCuentas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Areas.gdvArea">
+	<summary>
+gdvArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.hdfNroRegistros">
+	<summary>
+hdfNroRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.hdfPagina">
+	<summary>
+hdfPagina control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.txtPersona">
+	<summary>
+txtPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.cboGrupo">
+	<summary>
+cboGrupo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.lblNumRegistros">
+	<summary>
+lblNumRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GruposPersonas.gdvPersona">
+	<summary>
+gdvPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAFDetalle.hdfIdCtaEOAF">
+	<summary>
+hdfIdCtaEOAF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAFDetalle.lblCtaEOAF">
+	<summary>
+lblCtaEOAF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAFDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAFDetalle.gdvCtaEOAFDet">
+	<summary>
+gdvCtaEOAFDet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BG.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BG.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BG.gdvCtaBG">
+	<summary>
+gdvCtaBG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BG.gdvCtaBGExp">
+	<summary>
+gdvCtaBGExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ERDetalle.hdfIdCtaER">
+	<summary>
+hdfIdCtaER control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ERDetalle.lblCtaER">
+	<summary>
+lblCtaER control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ERDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ERDetalle.gdvCtaERDet">
+	<summary>
+gdvCtaERDet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Pasivos.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Pasivos.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Pasivos.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Pasivos.gdvPasivos">
+	<summary>
+gdvPasivos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Pasivos.gdvPasivosExp">
+	<summary>
+gdvPasivosExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.txtMaterialB">
+	<summary>
+txtMaterialB control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.cboNumContrato">
+	<summary>
+cboNumContrato control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.hdfOrden">
+	<summary>
+hdfOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.hdfTipoOrden">
+	<summary>
+hdfTipoOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.gdvMaterialFilmico">
+	<summary>
+gdvMaterialFilmico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.MaterialFilmico.gdvMaterialFilmicoExp">
+	<summary>
+gdvMaterialFilmicoExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.cboCuentaFC2">
+	<summary>
+cboCuentaFC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.gdvAjuste">
+	<summary>
+gdvAjuste control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Ajustes.gdvResultadosExp">
+	<summary>
+gdvResultadosExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.cabecera">
+	<summary>
+cabecera control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.lblUsuario">
+	<summary>
+lblUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.lblFecha">
+	<summary>
+lblFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.litImportacion">
+	<summary>
+litImportacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.litActualizacion">
+	<summary>
+litActualizacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.litMantenimientos">
+	<summary>
+litMantenimientos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.litReportes">
+	<summary>
+litReportes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.litConsultas">
+	<summary>
+litConsultas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.litSeguridad">
+	<summary>
+litSeguridad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.lnkSalir">
+	<summary>
+lnkSalir control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.titulo">
+	<summary>
+titulo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ATVContraloria.contenido">
+	<summary>
+contenido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Seguridad.hdfIdUsuario">
+	<summary>
+hdfIdUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Seguridad.lblUsuario">
+	<summary>
+lblUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Seguridad.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Seguridad.gdvSeguridad">
+	<summary>
+gdvSeguridad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ER.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ER.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ER.gdvCtaER">
+	<summary>
+gdvCtaER control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ER.gdvCtaERExp">
+	<summary>
+gdvCtaERExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesInfGestion.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesInfGestion.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesInfGestion.lnkGenerarReporteInfGestion">
+	<summary>
+lnkGenerarReporteInfGestion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.LogIn.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.LogIn.txtCodUsuario">
+	<summary>
+txtCodUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.LogIn.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.LogIn.lnkIngresar">
+	<summary>
+lnkIngresar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.LogIn.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.UpdatePanel2">
+	<summary>
+UpdatePanel2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.btnNuevo">
+	<summary>
+btnNuevo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.upnlResumen">
+	<summary>
+upnlResumen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.gdvAjusteExt">
+	<summary>
+gdvAjusteExt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.gdvResultadosExp">
+	<summary>
+gdvResultadosExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.btnInvisible1">
+	<summary>
+btnInvisible1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.pnlDetalle">
+	<summary>
+pnlDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.hdfIdAjuste">
+	<summary>
+hdfIdAjuste control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.txtFecha">
+	<summary>
+txtFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.rdbIngreso">
+	<summary>
+rdbIngreso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.rdbEgreso">
+	<summary>
+rdbEgreso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.cboCodCuentaFCOrig">
+	<summary>
+cboCodCuentaFCOrig control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.cboCodPersonaOrig">
+	<summary>
+cboCodPersonaOrig control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.cboCodCuentaFCDes">
+	<summary>
+cboCodCuentaFCDes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.cboCodPersonaDes">
+	<summary>
+cboCodPersonaDes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.cboCodAreaDes">
+	<summary>
+cboCodAreaDes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.txtObservacion">
+	<summary>
+txtObservacion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.txtMontoUSD">
+	<summary>
+txtMontoUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.btnSaveDetalle">
+	<summary>
+btnSaveDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.btnCloseDetalle">
+	<summary>
+btnCloseDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.mpupDetalle">
+	<summary>
+mpupDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.UpdateProgress1">
+	<summary>
+UpdateProgress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.AjustesExt.AlwaysVisibleControlExtender1">
+	<summary>
+AlwaysVisibleControlExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Accesos.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Accesos.gdvAcceso">
+	<summary>
+gdvAcceso control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesVentasGrupo.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesVentasGrupo.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesVentasGrupo.lnkGeneraReporteVentasGrupo">
+	<summary>
+lnkGeneraReporteVentasGrupo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEGP.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEGP.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEGP.btnImportaEGP">
+	<summary>
+btnImportaEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEGP.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEGP.UpdateProgress1">
+	<summary>
+UpdateProgress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEGP.AlwaysVisibleControlExtender1">
+	<summary>
+AlwaysVisibleControlExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaN.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaN.gdvCtaFlujoNRep">
+	<summary>
+gdvCtaFlujoNRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Presupuesto.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Presupuesto.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Presupuesto.hdfNroRegistros">
+	<summary>
+hdfNroRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Presupuesto.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Presupuesto.gdvFlujo">
+	<summary>
+gdvFlujo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CtasPorCobrar.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CtasPorCobrar.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CtasPorCobrar.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CtasPorCobrar.gdvCtasPorCobrar">
+	<summary>
+gdvCtasPorCobrar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CtasPorCobrar.gdvCtasPorCobrarExp">
+	<summary>
+gdvCtasPorCobrarExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCaja.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCaja.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCaja.gdvCtaFlujoRep">
+	<summary>
+gdvCtaFlujoRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCaja.gdvCtaFCExp">
+	<summary>
+gdvCtaFCExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GrupoATV.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.GrupoATV.gdvGrupoATV">
+	<summary>
+gdvGrupoATV control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesMF.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesMF.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesMF.lnkGenerarReporteMaterialFilmico">
+	<summary>
+lnkGenerarReporteMaterialFilmico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvalEGP.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvalEGP.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvalEGP.lnkGenerarReportePptoEGP">
+	<summary>
+lnkGenerarReportePptoEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvalEGP.lnkGenerarReporteEvalEGP">
+	<summary>
+lnkGenerarReporteEvalEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.btnImportaEvolucionVentas">
+	<summary>
+btnImportaEvolucionVentas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.cboAño">
+	<summary>
+cboAño control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lnkDescargaVentaPpto">
+	<summary>
+lnkDescargaVentaPpto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.fupVentaPpto">
+	<summary>
+fupVentaPpto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lnkImportaVentaPpto">
+	<summary>
+lnkImportaVentaPpto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lblEstadoPpto">
+	<summary>
+lblEstadoPpto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lnkDescargaVenta2">
+	<summary>
+lnkDescargaVenta2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.fupVenta2">
+	<summary>
+fupVenta2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lnkImportaVenta2">
+	<summary>
+lnkImportaVenta2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.lblEstado2">
+	<summary>
+lblEstado2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.UpdateProgress1">
+	<summary>
+UpdateProgress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionEvolucionVentas.AlwaysVisibleControlExtender1">
+	<summary>
+AlwaysVisibleControlExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.btnImportaVentas">
+	<summary>
+btnImportaVentas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.lnkDescargaRating">
+	<summary>
+lnkDescargaRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.fupRating">
+	<summary>
+fupRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.lnkImportaRating">
+	<summary>
+lnkImportaRating control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.UpdateProgress1">
+	<summary>
+UpdateProgress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionVentas.AlwaysVisibleControlExtender1">
+	<summary>
+AlwaysVisibleControlExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaS.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaS.gdvCtaFlujoS">
+	<summary>
+gdvCtaFlujoS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.hdfOrden">
+	<summary>
+hdfOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.hdfTipoOrden">
+	<summary>
+hdfTipoOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.gdvCentrosCosto">
+	<summary>
+gdvCentrosCosto control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CentrosCosto.gdvCentrosCostoExp">
+	<summary>
+gdvCentrosCostoExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Usuarios.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Usuarios.gdvUsuario">
+	<summary>
+gdvUsuario control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAF.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAF.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAF.gdvCtaEOAF">
+	<summary>
+gdvCtaEOAF control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EOAF.gdvCtaEOAFExp">
+	<summary>
+gdvCtaEOAFExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFC.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFC.upnlCuentaFC">
+	<summary>
+upnlCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFC.gdvCuentaFC">
+	<summary>
+gdvCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFC.upnlCuentaFC2">
+	<summary>
+upnlCuentaFC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFC.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFC.gdvCuentaFC2">
+	<summary>
+gdvCuentaFC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaDetalle.hdfIdCtaFlujoRep">
+	<summary>
+hdfIdCtaFlujoRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaDetalle.lblCtaFlujoRep">
+	<summary>
+lblCtaFlujoRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaDetalle.gdvCtaDetalleRep">
+	<summary>
+gdvCtaDetalleRep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.PersonasFCS.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.PersonasFCS.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.PersonasFCS.gdvPersonaS">
+	<summary>
+gdvPersonaS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.hdfOrden">
+	<summary>
+hdfOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.hdfTipoOrden">
+	<summary>
+hdfTipoOrden control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.gdvClientes">
+	<summary>
+gdvClientes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Clientes.gdvClientesExp">
+	<summary>
+gdvClientesExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BGDetalle.hdfIdCtaBG">
+	<summary>
+hdfIdCtaBG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BGDetalle.lblCtaBG">
+	<summary>
+lblCtaBG control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BGDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.BGDetalle.gdvCtaBGDet">
+	<summary>
+gdvCtaBGDet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.txtFechaIni">
+	<summary>
+txtFechaIni control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.txtFechaFin">
+	<summary>
+txtFechaFin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.cboCtaBanco">
+	<summary>
+cboCtaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.gdvCuenta">
+	<summary>
+gdvCuenta control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ValidacionFC.gdvCuenta2">
+	<summary>
+gdvCuenta2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGP.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGP.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGP.gdvCtaEGP">
+	<summary>
+gdvCtaEGP control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.EGP.gdvCtaEGPExp">
+	<summary>
+gdvCtaEGPExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaSDetalle.hdfCodDetalle">
+	<summary>
+hdfCodDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaSDetalle.lblCodDetalle">
+	<summary>
+lblCodDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaSDetalle.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.FlujoCajaSDetalle.gdvCtaDetalleS">
+	<summary>
+gdvCtaDetalleS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.btnImportaFC">
+	<summary>
+btnImportaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.btnImportaFC2011">
+	<summary>
+btnImportaFC2011 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.btnImportaFC2010">
+	<summary>
+btnImportaFC2010 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.UpdateProgress1">
+	<summary>
+UpdateProgress1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ImportacionFC.AlwaysVisibleControlExtender1">
+	<summary>
+AlwaysVisibleControlExtender1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Temp.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Temp.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.hdfNroRegistros">
+	<summary>
+hdfNroRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboCuentaBanco">
+	<summary>
+cboCuentaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboCuentaFC">
+	<summary>
+cboCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboCuentaFCNueva">
+	<summary>
+cboCuentaFCNueva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboArea">
+	<summary>
+cboArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboAreaNueva">
+	<summary>
+cboAreaNueva control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboPersona">
+	<summary>
+cboPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.txtPersona">
+	<summary>
+txtPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.txtGlosa">
+	<summary>
+txtGlosa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.txtFecha">
+	<summary>
+txtFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.txtNroVoucher">
+	<summary>
+txtNroVoucher control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.btnDescargaExcel">
+	<summary>
+btnDescargaExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblNumRegistros">
+	<summary>
+lblNumRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.upnlResumen">
+	<summary>
+upnlResumen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.hdfPagina">
+	<summary>
+hdfPagina control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.gdvMovimiento">
+	<summary>
+gdvMovimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.gdvResultadosExp">
+	<summary>
+gdvResultadosExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.btnInvisible1">
+	<summary>
+btnInvisible1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.pnlDetalle">
+	<summary>
+pnlDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.hdfIdMovimiento">
+	<summary>
+hdfIdMovimiento control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblIdPeriodo">
+	<summary>
+lblIdPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblFecha">
+	<summary>
+lblFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblNroVoucher">
+	<summary>
+lblNroVoucher control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblNroItem">
+	<summary>
+lblNroItem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCodCuentaBanco">
+	<summary>
+lblCodCuentaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCuentaBanco">
+	<summary>
+lblCuentaBanco control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCodCuentaFC">
+	<summary>
+lblCodCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCuentaFC">
+	<summary>
+lblCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCodPersona">
+	<summary>
+lblCodPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblPersona">
+	<summary>
+lblPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblGlosa">
+	<summary>
+lblGlosa control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblObservaciones">
+	<summary>
+lblObservaciones control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCodArea">
+	<summary>
+lblCodArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblArea">
+	<summary>
+lblArea control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblCodGrupoMov">
+	<summary>
+lblCodGrupoMov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblGrupoMov">
+	<summary>
+lblGrupoMov control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblMontoBaseUSD">
+	<summary>
+lblMontoBaseUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblMontoIGVUSD">
+	<summary>
+lblMontoIGVUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblMontoUSD">
+	<summary>
+lblMontoUSD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.lblVacio">
+	<summary>
+lblVacio control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboCuentaFC2">
+	<summary>
+cboCuentaFC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.cboArea2">
+	<summary>
+cboArea2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.btnCloseDetalle">
+	<summary>
+btnCloseDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.btnSaveDetalle">
+	<summary>
+btnSaveDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ActualizacionFC.mpupDetalle">
+	<summary>
+mpupDetalle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.lblMaterial">
+	<summary>
+lblMaterial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.btnExcel">
+	<summary>
+btnExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.gdvConsumoMaterialFilmico">
+	<summary>
+gdvConsumoMaterialFilmico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.gdvProgMaterialFilmico">
+	<summary>
+gdvProgMaterialFilmico control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.gdvConsumoMaterialFilmicoExp">
+	<summary>
+gdvConsumoMaterialFilmicoExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ProgMaterialFilmico.gdvProgMaterialFilmicoExp">
+	<summary>
+gdvProgMaterialFilmicoExp control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.fupConsumos">
+	<summary>
+fupConsumos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.lnkImportar">
+	<summary>
+lnkImportar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.lblEstado">
+	<summary>
+lblEstado control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.fupConsumosInactivos">
+	<summary>
+fupConsumosInactivos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.lnkImportarInactivos">
+	<summary>
+lnkImportarInactivos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.lnkEjemploInactivos">
+	<summary>
+lnkEjemploInactivos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.lblEstadoInactivos">
+	<summary>
+lblEstadoInactivos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesConsumos.lnkGenerarReporte">
+	<summary>
+lnkGenerarReporte control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Personas.hdfAccion">
+	<summary>
+hdfAccion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Personas.hdfNroRegistros">
+	<summary>
+hdfNroRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Personas.txtPersona">
+	<summary>
+txtPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Personas.btnConsultar">
+	<summary>
+btnConsultar control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Personas.lblNumRegistros">
+	<summary>
+lblNumRegistros control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.Personas.gdvPersona">
+	<summary>
+gdvPersona control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.rdbAmbito">
+	<summary>
+rdbAmbito control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkGenerarReporte">
+	<summary>
+lnkGenerarReporte control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkGenerarReporteTesoreria">
+	<summary>
+lnkGenerarReporteTesoreria control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkGenerarReporteN">
+	<summary>
+lnkGenerarReporteN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lblFechaIni">
+	<summary>
+lblFechaIni control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.txtFechaIni">
+	<summary>
+txtFechaIni control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lblFechaFin">
+	<summary>
+lblFechaFin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.txtFechaFin">
+	<summary>
+txtFechaFin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkFCSemanal2">
+	<summary>
+lnkFCSemanal2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkFCSemanal2d">
+	<summary>
+lnkFCSemanal2d control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkFCSemanal2b">
+	<summary>
+lnkFCSemanal2b control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesFC.lnkFCSemanal">
+	<summary>
+lnkFCSemanal control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvolVentas.lblFecha">
+	<summary>
+lblFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvolVentas.txtFecha">
+	<summary>
+txtFecha control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesEvolVentas.lnkGenerarReporteEvolucionVentas">
+	<summary>
+lnkGenerarReporteEvolucionVentas control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesPasivos.lblPeriodo">
+	<summary>
+lblPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesPasivos.cboPeriodo">
+	<summary>
+cboPeriodo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.ReportesPasivos.lnkGenerarReportePasivos">
+	<summary>
+lnkGenerarReportePasivos control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFCN.ToolkitScriptManager1">
+	<summary>
+ToolkitScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFCN.upnlCuentaFC">
+	<summary>
+upnlCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFCN.gdvCuentaFC">
+	<summary>
+gdvCuentaFC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFCN.upnlCuentaFCN">
+	<summary>
+upnlCuentaFCN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFCN.lblMensaje">
+	<summary>
+lblMensaje control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:ATVContraloria.CuentasFCN.gdvCuentaFCN">
+	<summary>
+gdvCuentaFCN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>

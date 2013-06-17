@@ -1,0 +1,138 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="ATVContraloria.Master.vb"
+    Inherits="ATVContraloria.ATVContraloria" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>ATV Contraloria</title>
+    <script type="text/javascript" src="Scripts/Funcion.js"></script>
+    <link href="css/navmenu.css" rel="stylesheet" type="text/css" />
+    <link href="css/bluedream.css" rel="stylesheet" type="text/css" />
+    <link href="css/pagination.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript">
+    <!--
+        function MM_preloadImages() { //v3.0
+            var d = document; if (d.images) {
+                if (!d.MM_p) d.MM_p = new Array();
+                var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
+            }
+        }
+    //-->
+    </script>
+    <link href="css/estilosinter.css" rel="stylesheet" type="text/css" />
+    <link href="css/stAdmin.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="lib/calendar/dhtmlgoodies_calendar.css" media="screen" />
+    <script type="text/javascript" src="lib/calendar/dhtmlgoodies_calendar.js"></script>
+    <asp:ContentPlaceHolder ID="cabecera" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <!--INICIO CABECERA -->
+    <div class="clear" id="cabecera">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0" class="tablaCabecera">
+            <tr>
+                <td>
+                    <img src="images/titulo.png" class="imgLogo2" />
+                </td>
+                <td width="704">
+                    <div class="usuariofechacontent">
+                        <table border="0" cellpadding="0" cellspacing="0" class="tablaUserDate">
+                            <tr>
+                                <td nowrap="nowrap">
+                                    <div class="textoTituloIzq" id="TituloUsuarioCab">
+                                        Usuario:
+                                    </div>
+                                    <div class="textoIzq" id="titulousuarioCab">
+                                        <asp:Label ID="lblUsuario" runat="server" Text="Usuario"></asp:Label></div>
+                                </td>
+                                <td>
+                                    &nbsp;
+                                </td>
+                                <td height="30" nowrap="nowrap">
+                                    <div class="textoTituloDer" id="TituloUsuarioCab">
+                                        Fecha:
+                                    </div>
+                                    <div class="textoDer" id="titulousuarioCab">
+                                        <asp:Label ID="lblFecha" runat="server" Text="Fecha"></asp:Label></div>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    <!--FIN CABECERA -->
+    <!--INICIO MENUSUP -->
+    <div class="menusup">
+        <div id="men1">
+            &nbsp;</div>
+        <div class="contentmenu">
+            <ul id="navmenu-h" name="navmenu-h">
+                <asp:Literal ID="litMenu" runat="server"></asp:Literal>
+                <%--<li><a href="#">Importación +</a>
+                    <ul>
+                        <asp:Literal ID="litImportacion" runat="server"></asp:Literal>
+                    </ul>
+                </li>
+                <li><a href="#">Actualización +</a>
+                    <ul>
+                        <asp:Literal ID="litActualizacion" runat="server"></asp:Literal>
+                    </ul>
+                </li>
+                <li><a href="#">Mantenimientos +</a>
+                    <ul>
+                        <asp:Literal ID="litMantenimientos" runat="server"></asp:Literal>
+                    </ul>
+                </li>
+                <li><a href="#">Reportes +</a>
+                    <ul>
+                        <asp:Literal ID="litReportes" runat="server"></asp:Literal>
+                    </ul>
+                </li>
+                <li><a href="#">Consultas +</a>
+                    <ul>
+                        <asp:Literal ID="litConsultas" runat="server"></asp:Literal>
+                    </ul>
+                </li>
+                <li><a href="#">Seguridad +</a>
+                    <ul>
+                        <asp:Literal ID="litSeguridad" runat="server"></asp:Literal>
+                    </ul>
+                </li>--%>
+            </ul>
+        </div>
+        <div class="menusupcont">
+            <div id="men1">
+            </div>
+            <%--  <ul id="navmenu_right"  name="navmenu_right">   
+    <li><a href="home.html" >Inicio</a></li>  
+  </ul>--%>
+            <ul id="navmenu_right2" name="navmenu_right">
+                <li>
+                    <asp:LinkButton ID="lnkSalir" runat="server">Salir</asp:LinkButton></li>
+            </ul>
+        </div>
+    </div>
+    <!--FIN MENUSUP -->
+    <!--INICIO TITULO -->
+    <asp:ContentPlaceHolder ID="titulo" runat="server">
+    </asp:ContentPlaceHolder>
+    <!--FIN TITULO -->
+    <!--INICIO CUERPO -->
+    <div class="cuerpo">
+        <div class="fondoInt">
+            <asp:ContentPlaceHolder ID="contenido" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <!--FIN CUERPO-->
+        <!--PIE-->
+        <div class="pieInt">
+            © ATV 2011. Todos los derechos reservados
+        </div>
+    </div>
+    </form>
+</body>
+</html>

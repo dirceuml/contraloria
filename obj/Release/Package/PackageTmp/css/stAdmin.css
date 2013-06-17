@@ -1,0 +1,293 @@
+BODY {
+	background-color : #FFFFFF;
+	color : #000000;
+	font-family : Arial, Tahoma, Helvetica, sans-serif;
+	font-size : 11px;
+	margin-left : 0%;
+	margin-right : 0%;
+	margin: 0px;
+	padding: 0px;
+}
+
+a:link {text-decoration: none;}
+a:visited {text-decoration: none;}
+a:active {text-decoration: none;}
+
+.fontTextTitulo
+{   FONT-SIZE: 20px;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+	COLOR: #FFFFFF;
+}
+
+.fontTextMayor
+{   FONT-SIZE: 14px;
+	COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextBlanco
+{   FONT-SIZE: 14px;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextNegro
+{   FONT-SIZE: 12px;
+	COLOR: #333333;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontText18
+{   FONT-SIZE: 14px;
+	COLOR: #0168B5;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontText14
+{   FONT-SIZE: 14px;
+	COLOR: #003366;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontText12
+{   FONT-SIZE: 12px;
+	COLOR: #666666;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontText10
+{   FONT-SIZE: 10px;
+	COLOR: #666666;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextPie12
+{   FONT-SIZE: 12px;
+	COLOR: #999999;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextCabecera12
+{   FONT-SIZE: 12px;
+	COLOR: #80B3DA;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextNumeral
+{   FONT-SIZE: 14px;
+	COLOR: #999999;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+	
+}
+
+.strErr
+{   FONT-SIZE: 12px;
+    COLOR: red;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+/********************************************************************************/
+.TDList0
+{   BACKGROUND-COLOR: #FFFFFF;	}
+.TDList1
+{   BACKGROUND-COLOR: #EDEDEE;	}
+
+/********************************************************************************/
+a.enlace { font: normal 12px Arial, Helvetica, sans-serif; color: #003366; text-decoration: none; }
+a.enlace:visited { font: normal 12px Arial, Helvetica, sans-serif; color: #003366; }
+a.enlace:hover {font: normal 12px Arial, Helvetica, sans-serif; color: #0000FF;}
+
+a.EnlaceCabecera { font: normal 12px Arial, Helvetica, sans-serif; color: #80B3DA; text-decoration: underline; }
+a.EnlaceCabecera:visited { font: normal 12px Arial, Helvetica, sans-serif; color: #80B3DA; }
+a.EnlaceCabecera:hover {font: normal 12px Arial, Helvetica, sans-serif; color: #0000FF;}
+
+a.menu {font: normal 12px Arial, Helvetica, sans-serif; color: #0168B5;}
+a.menu:visited { font: normal 12px Arial, Helvetica, sans-serif; color: #0168B5; }
+a.menu:hover {font: normal 12px Arial, Helvetica, sans-serif; color: #999999;}
+.menun  {font: normal 12px Arial, Helvetica, sans-serif; color: #0168B5;}
+.menup  {font: normal 12px Arial, Helvetica, sans-serif; color: #999999;}
+
+
+/*********************************************************************************/
+
+.fontTextNormal
+{   FONT-SIZE: 12px;
+	COLOR: #30569D;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextSmall
+{   FONT-SIZE: 10px;
+	COLOR: #514E4E;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+
+.fontTextAzul
+{   FONT-SIZE: 14px;
+	COLOR: #003388;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextMayorMorado
+{   FONT-SIZE: 14px;
+	COLOR: #800080;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.InputText10
+{   FONT-SIZE: 10px;
+	COLOR: #514E4E;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontInputNormal
+{   FONT-SIZE: 12px;
+	COLOR: #514E4E;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextMayorNegro
+{   FONT-SIZE: 14px;
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.fontTextMorado
+{   FONT-SIZE: 12px;
+	COLOR: #800080;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.txtBlanco
+{   FONT-SIZE: 10px;
+	COLOR: #FFFFFF;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.txtSmall
+{   FONT-SIZE: 8px;
+	COLOR: #514E4E;
+    FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+}
+
+.TDHeadMayor
+{	BACKGROUND-COLOR: Silver;
+	font-size : 12px;
+	font-style : normal;
+	font-family : Arial, Helvetica, sans-serif;
+}
+
+.TDHead
+{	/*BACKGROUND-COLOR: #30569D;*/
+	font-size : 12px;
+	font-style : normal;
+	font-family : Arial, Helvetica, sans-serif;
+	position: relative;
+    width: 100%;
+	background: #0168b5 no-repeat;
+	background-position: top right;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.fontBoton {
+	BORDER-RIGHT: Silver thin solid; 
+	BORDER-TOP: Silver thin solid; 
+	BORDER-LEFT: Silver thin solid; 
+	BORDER-BOTTOM: Silver thin solid; 
+	BACKGROUND-COLOR: #0168b5;
+	COLOR: White;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+	FONT-SIZE: 12px;
+	CURSOR: hand; 
+}
+
+.fontBotonp {
+	BORDER-RIGHT: Silver thin solid; 
+	BORDER-TOP: Silver thin solid; 
+	BORDER-LEFT: Silver thin solid; 
+	BORDER-BOTTOM: Silver thin solid; 
+	BACKGROUND-COLOR: #888888;
+	COLOR: #FFFFFF;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+	FONT-SIZE: 12px;
+	CURSOR: hand; 
+}
+
+.fontBotonc {
+	BORDER-RIGHT: Silver thin solid; 
+	BORDER-TOP: Silver thin solid; 
+	BORDER-LEFT: Silver thin solid; 
+	BORDER-BOTTOM: Silver thin solid; 
+	BACKGROUND-COLOR: #FF0000;
+	COLOR: White;
+	FONT-FAMILY: Arial, Times, Helvetica, sans-serif;
+	FONT-SIZE: 12px; 
+	CURSOR: hand; 	
+}
+
+a.nivel2 {font: normal 12px Arial, Helvetica, sans-serif; color: #30569D;}
+a.nivel2:visited { font: normal 12px Arial, Helvetica, sans-serif; color: #30569D; }
+a.nivel2:hover {font: normal 12px Arial, Helvetica, sans-serif; color: #FF0000;}
+.nivel2n  {font: normal 12px Arial, Helvetica, sans-serif; color: #30569D;}
+.nivel2p  {font: normal 12px Arial, Helvetica, sans-serif; color: #FF0000;}
+
+a.nivel3 {font: normal 11px Arial, Helvetica, sans-serif; color: #003388;}
+a.nivel3:visited { font: normal 11px Arial, Helvetica, sans-serif; color: #003388; }
+a.nivel3:hover {font: normal 11px Arial, Helvetica, sans-serif; color: #FF0000;}
+.nivel3n  {font: normal 11px Arial, Helvetica, sans-serif; color: #003388;}
+.nivel3p  {font: normal 11px Arial, Helvetica, sans-serif; color: #FF0000;}
+
+a.nivel4 {font: normal 11px Arial, Helvetica, sans-serif; color: #30569D;}
+a.nivel4:visited { font: normal 11px Arial, Helvetica, sans-serif; color: #30569D; }
+a.nivel4:hover {font: normal 11px Arial, Helvetica, sans-serif; color: #FF0000;}
+a.nivel4:active {font: normal 11px Arial, Helvetica, sans-serif; color: #FF0000;}
+.nivel4n  {font: normal 12px Arial, Helvetica, sans-serif; color: #30569D;}
+
+/* cabecera azul */
+#wrapper {
+        border: 0px;
+        margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px;
+}
+
+#header {
+        background-color: #FFF;
+        background-position: right top;
+        border-bottom: 4px solid #0168b5;
+}
+
+#mambo {
+        position: relative;
+        width: 100%;
+        height: 60px;
+		background: #0168b5 no-repeat;
+        background-position: top right;
+        margin: 0px;
+        padding: 0px;
+}
+
+/* -- ESTILO DEL CONTROL */
+.Normal {
+	color: #333333;
+    font-family: Arial, Verdana, serif;
+    font-size: 11px;
+}
+.style1 {
+	color: #333333;
+    font-family: Arial, Verdana, serif;
+    font-size: 11px;
+}
+.style2 {
+	color: #333333;
+	font-family: Arial, Verdana, serif;
+    font-size: 12px;
+}
+.style3 {
+	color: #333333;
+    font-family: Arial, Verdana, serif;
+    font-size: 13px;
+}

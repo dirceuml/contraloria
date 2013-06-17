@@ -1,0 +1,110 @@
+/* 
+	Blue Dream
+	Written by Teylor Feliz  http://www.admixweb.com
+*/
+
+
+.listTable {
+	border-collapse:collapse;
+	color:#fff;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #999999;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	background-color: #F0F7FB;
+	padding-right: 5px;
+	padding-left: 5px;
+	width: 100%;
+}
+.listTable td,  .listTable th {
+	color:#272727;
+	text-align: left;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border: 1px dotted #999999;
+}
+.listTable tr {
+	border:1px dotted gray;
+}
+
+.listTable thead th, tfoot th {
+	color:#FFFFFF;
+	text-align:left;
+	text-transform:none;
+	background-color: #05355C;
+	padding: 5px;
+}
+.listTable thead th a{
+	color:#FFFFFF;
+	text-decoration: none;
+	
+}
+.listTable thead th a:hover{
+	color:#8ED9F4;
+	text-decoration: underline;
+	
+}
+
+.listTable tbody td a {
+	color:#003366;
+}
+.listTable tbody td a:visited { color:gray;
+ text-decoration:line-through;
+}
+.listTable tbody td a:hover { text-decoration:underline;
+}
+.listTable tbody th a {
+	color:#003366;
+	font-weight:normal;
+}
+.listTable tbody th a:hover { color:#363636;
+}
+
+/*.listTable tbody td+td+td+td a {
+	background-image:url('bullet_blue.png');
+	background-position:left center;
+	background-repeat:no-repeat;
+	color:#03476F;
+}
+.listTable tbody td+td+td+td a:visited {
+	background-image:url('bullet_white.png');
+	background-position:left center;
+	background-repeat:no-repeat;
+}*/
+
+.listTable  td  { 
+	text-align:left;
+ 	vertical-align:top;
+}
+.listTable tfoot td {
+	color:#FFFFFF;
+	padding-top:3px;
+	background-color: #006666;
+}
+.listTable .odd { background:#fff;
+}
+
+
+.listTable tbody tr:hover {
+	border:1px solid #03476F;
+	color:#33CCFF;
+	background-color: #CDDDED;
+}
+.listTable img {
+	margin-left: 15px;
+}
